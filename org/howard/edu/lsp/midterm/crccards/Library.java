@@ -14,7 +14,7 @@ import java.util.Map;
  * <p>Books are stored in a {@link HashMap} keyed by ISBN, giving constant-time
  * lookup and a natural way to reject duplicate ISBNs.</p>
  *
- * @author Your Name
+ * @Zoey Hall
  */
 public class Library {
     /** Maximum number of books that may be borrowed at one time. */
