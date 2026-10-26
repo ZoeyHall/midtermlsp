@@ -6,7 +6,7 @@ package org.howard.edu.lsp.midterm.crccards;
  * availability; other classes can only change availability through
  * {@link #borrowBook()} and {@link #returnBook()}.
  *
- * @author Your Name
+ * @Zoey Hall
  */
 public class Book {
     private final String isbn;
