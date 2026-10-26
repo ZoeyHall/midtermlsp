@@ -5,7 +5,7 @@ package org.howard.edu.lsp.midterm.inheritance;
  * every employee and declares {@link #calculatePay()}, which each subclass
  * overrides with its own pay rule.
  *
- * @author Your Name
+ * @Zoey Hall
  */
 public abstract class Employee {
     private final double hoursWorked;
