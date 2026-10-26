@@ -3,7 +3,7 @@ package org.howard.edu.lsp.midterm.inheritance;
 /**
  * A contractor, paid a 15% premium on all hours worked.
  *
- * @author Your Name
+ * @Zoey Hall
  */
 public class Contractor extends Employee {
     private static final double PREMIUM_MULTIPLIER = 1.15;
